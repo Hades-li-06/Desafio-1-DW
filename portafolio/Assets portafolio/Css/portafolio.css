@@ -1,0 +1,22 @@
+img{
+    width: 80%;
+    
+}
+
+table{
+    margin: 10px;
+    width: 65%;
+    
+    
+}
+
+td:nth-child(1){
+    padding: 40px;
+    text-align: center;
+}
+
+td:nth-child(2){
+    padding: 10px;
+    text-align: center;
+}
+
